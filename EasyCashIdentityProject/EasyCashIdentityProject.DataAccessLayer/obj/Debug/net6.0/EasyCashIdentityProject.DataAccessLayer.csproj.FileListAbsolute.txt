@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\bin\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.deps.json
+C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\bin\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.runtimeconfig.json
+C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\bin\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.dll
+C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\bin\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.pdb
+C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\bin\Debug\net6.0\EasyCashIdentityProject.EntityLayer.dll
+C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\bin\Debug\net6.0\EasyCashIdentityProject.EntityLayer.pdb
+C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\obj\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\obj\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\obj\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\obj\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.AssemblyInfo.cs
+C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\obj\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\obj\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.csproj.CopyComplete
+C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\obj\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.dll
+C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\obj\Debug\net6.0\refint\EasyCashIdentityProject.DataAccessLayer.dll
+C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\obj\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.pdb
+C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\obj\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.genruntimeconfig.cache
+C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\obj\Debug\net6.0\ref\EasyCashIdentityProject.DataAccessLayer.dll
