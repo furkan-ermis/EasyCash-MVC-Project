@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "aAXgPil63HQhleZHEbQWh4zd+Dg7SpSXDmuIMgFHg6N9E2rlHv4ndwK+SxPlK5sjfkfkycLWzyXYP0rvnbxZQQ==",
+  "dgSpecHash": "8sdgb9pdOOhgag/eexvcBUayauKwS2aaGU9vTJHtnSytsqgjXmVoSc831JGy63FbYeaAWea5AJ1kp0gP+tJzLw==",
   "success": true,
   "projectFilePath": "C:\\Users\\hp\\Desktop\\EasyCash_Identity_MVC\\EasyCashIdentityProject\\EasyCashIdentityProject.BusinessLayer\\EasyCashIdentityProject.BusinessLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.2\\fluentvalidation.dependencyinjectionextensions.11.5.2.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.1.1\\microsoft.aspnetcore.authentication.2.1.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.1\\microsoft.aspnetcore.authentication.abstractions.2.1.1.nupkg.sha512",
