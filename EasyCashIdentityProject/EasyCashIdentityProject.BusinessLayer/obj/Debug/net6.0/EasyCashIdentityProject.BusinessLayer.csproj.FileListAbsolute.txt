@@ -17,3 +17,5 @@ C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdenti
 C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.pdb
 C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BusinessLayer.genruntimeconfig.cache
 C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\obj\Debug\net6.0\ref\EasyCashIdentityProject.BusinessLayer.dll
+C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.DtoLayer.dll
+C:\Users\hp\Desktop\EasyCash_Identity_MVC\EasyCashIdentityProject\EasyCashIdentityProject.BusinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.DtoLayer.pdb

@@ -71,6 +71,9 @@ namespace EasyCashIdentityProject.DataAccessLayer.Migrations
                         .IsConcurrencyToken()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int?>("ConfirmCode")
+                        .HasColumnType("int");
+
                     b.Property<string>("District")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -170,7 +173,7 @@ namespace EasyCashIdentityProject.DataAccessLayer.Migrations
 
                     b.HasIndex("AppUserID");
 
-                    b.ToTable("CustomerAccounts", (string)null);
+                    b.ToTable("CustomerAccounts");
                 });
 
             modelBuilder.Entity("EasyCashIdentityProject.EntityLayer.Concrete.CustomerAccountProcess", b =>
@@ -193,7 +196,7 @@ namespace EasyCashIdentityProject.DataAccessLayer.Migrations
 
                     b.HasKey("CustomerAccountProcessID");
 
-                    b.ToTable("CustomerAccountProcesses", (string)null);
+                    b.ToTable("CustomerAccountProcesses");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<int>", b =>
